@@ -1,7 +1,5 @@
 ---
 layout: post
-title:  Reisenotiz #1
-date:   1912-02-13 22:48:38 +0200
 categories: schierling
 ---
 
