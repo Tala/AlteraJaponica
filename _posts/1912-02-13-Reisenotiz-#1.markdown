@@ -1,8 +1,8 @@
 ---
 layout: post
-title:  "Welcome to Jekyll!"
-date:   2016-10-18 16:48:38 +0200
-categories: jekyll update
+title:  Reisenotiz #1
+date:   1912-02-13 22:48:38 +0200
+categories: schierling
 ---
 
 Endlich!   
