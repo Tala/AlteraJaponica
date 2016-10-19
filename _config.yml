@@ -16,7 +16,7 @@
 title: Altera Japonica
 email: your-email@domain.com
 description: > # this means to ignore newlines until "baseurl:"
-  Altera Japonica - eine Forschungsreise durch die Aetherwelt    
+  Altera Japonica - eine Forschungsreise durch die Aetherwelt.    
   Dieser Blog befasst sicht mit einer fiktiven Forschungsreise im Steampunk Universum von Anja Bagus. 
   Es gilt die durch Aether veränderte Fora und Fauna Ostasiens zu erforschen und dokumentieren.
 baseurl: "" # the subpath of your site, e.g. /blog
