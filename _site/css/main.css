@@ -439,6 +439,21 @@ pre {
   color: #a09a92; }
 
 /**
+ * List of Characters
+ */
+.list-of-characters h1 {
+  color: #787065;
+  display: block;
+  font-family: "Playfair Display";
+  font-size: 44px;
+  text-align: center; }
+  @media screen and (max-width: 800px) {
+    .list-of-characters h1 {
+      font-size: 36px; } }
+.list-of-characters span {
+  color: #a09a92; }
+
+/**
  * Error pages
  */
 .error {

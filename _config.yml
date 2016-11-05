@@ -24,5 +24,15 @@ url: "https://tala.github.io/AlteraJaponica/" # the base hostname & protocol for
 # twitter_username: AlteraJaponica
 # github_username:  jekyll
 
+exclude: ['README.md']
+
 # Build settings
 markdown: kramdown
+
+encoding: "utf-8"
+markdown_ext: "markdown,mkdown,mkdn,mkd,md"
+
+collections:
+    characters:
+        output: true
+        permalink: /:collection/:path/
