@@ -1,0 +1,17 @@
+---
+layout: default
+---
+
+<div class="list-of-characters">
+
+	<h1 class="page-heading">Liste der Expeditionsteilnehmer</h1>
+
+	<ul class="character-list">
+		{% for character in site.characters %}
+		<li>
+			<h3><a href="{{ character.url | prepend: site.baseurl }}">{{ character.title | escape }}</a></h3>
+		</li>
+		{% endfor %}
+	</ul>
+
+</div>
