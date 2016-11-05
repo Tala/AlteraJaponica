@@ -26,11 +26,13 @@ url: "https://tala.github.io/AlteraJaponica/" # the base hostname & protocol for
 
 exclude: ['README.md']
 
+encoding: "utf-8"
+markdown_ext: "markdown,mkdown,mkdn,mkd,md"
+
 # Build settings
 markdown: kramdown
 
-encoding: "utf-8"
-markdown_ext: "markdown,mkdown,mkdn,mkd,md"
+
 
 collections:
     characters:
