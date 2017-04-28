@@ -7,4 +7,4 @@ Nach einer langen Unterredung mit dem Herrn Hauptarchivar der Biologischen Fakul
 Leider habe ich vom Amt für Aetherangelegenheiten keine guten Neuigkeiten erhalten. Sie können derzeit leider keinen der neuen Aetherdetektoren entbehren, versicherten mir jedoch alle Optionen zu prüfen. 
 
 Gez. Dr. D. Schierling    
-Berlin, den    
+Berlin, den 26. April 1912   
