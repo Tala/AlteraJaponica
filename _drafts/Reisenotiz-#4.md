@@ -7,4 +7,4 @@ Vor einigen Tagen erreichte mich die Nachricht über das Unglück der MS Titanic
 Ich habe bei der lloyd nachgefragt und sie haben mir versichert, dass die Postzeppeline und -aetherdampfschiffe zuverlässig fahren werden. Der Krieg zwischen Italien und dem osmanischen Reich soll wohl wenig Auswirkungen auf die bisherigen Fahrten gehabt haben. Es bleibt zu hoffen, dass sich die Lage bis Juni noch etwas beruhigt.
 
 Gez. Dr. D. Schierling    
-Berlin, den 
+Berlin, den 20. April 1912
