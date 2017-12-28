@@ -31,7 +31,8 @@ markdown_ext: "markdown,mkdown,mkdn,mkd,md"
 
 # Build settings
 markdown: kramdown
-
+kramdown:
+  extensions: ["footnotes"]
 
 
 collections:
