@@ -1,0 +1,17 @@
+---
+layout: default
+---
+
+<div class="list-of-characters">
+
+	<h1 class="page-heading">Veränderte und Andersartige Pflanzen</h1>
+
+	<ul>
+		{% for herb in site.herbary %}
+		<li>
+			<h3><a href="{{ herb.url | prepend: site.baseurl }}">{{ herb.title | escape }}</a></h3>
+		</li>
+		{% endfor %}
+	</ul>
+
+</div>

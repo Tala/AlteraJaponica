@@ -1,0 +1,17 @@
+---
+layout: default
+---
+
+<div class="list-of-characters">
+
+	<h1 class="page-heading">Veränderte und Andersartige</h1>
+
+	<ul>
+		{% for beast in site.bestiary %}
+		<li>
+			<h3><a href="{{ beast.url | prepend: site.baseurl }}">{{ beast.title | escape }}</a></h3>
+		</li>
+		{% endfor %}
+	</ul>
+
+</div>
