@@ -7,5 +7,5 @@ Ich habe heute mit Elisabeth gesprochen und ihr von der Forschungsreise erzählt
 Ich bin zuversichtlich in den nächsten Tagen eine Zusage von ihr zu erhalten. 
 
 Gez. Dr. D. Schierling    
-Berlin, den 
+Berlin, den 21. März 1912
  
