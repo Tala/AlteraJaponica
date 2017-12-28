@@ -1,3 +1,4 @@
+
 <header class="site-header">
 
 	<div class="wrapper">
@@ -5,11 +6,16 @@
 		<a class="site-title" href="{{ site.baseurl }}/">{{ site.title }}</a>
 
 	</div>
-
-	<nav>
-		<ul>
-			<li><a href="{{site.baseurl}}/index.html">Reisenotizen</a></li>
-			<li><a href="{{site.baseurl}}/list-of-characters.html">Expeditionsteilnehmer</a></li>
-		</ul>
-	</nav>
+		
+  <ul id="nav">
+    <li{% if page.url == '/index.html' %} class="active"{% endif %}>
+    <a href="{{site.baseurl}}/index.html">Reisenotizen</a>
+    </li>
+    <li{% if page.url == '/list-of-characters.html' %} class="active"{% endif %}>
+    <a href="{{site.baseurl}}/list-of-characters.html">Expeditionsteilnehmer</a>
+    </li>
+	<li{% if page.url == '/impressum' %} class="active"{% endif %}>
+    <a href="{{site.baseurl}}/impressum">Impressum</a>
+    </li>
+  </ul>
 </header>

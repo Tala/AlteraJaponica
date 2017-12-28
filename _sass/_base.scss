@@ -188,18 +188,27 @@ figcaption {
 /**
  * Lists
  */
-ul, ol {
-    margin-left: $spacing-unit;
+ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
 }
 
 li {
-    > ul,
-    > ol {
-         margin-bottom: 0;
-    }
+    float: left;
 }
 
+li a {
+    display: block;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+}
 
+#nav .active{
+	border-bottom:2px solid $brand-color;
+}
 
 /**
  * Headings
