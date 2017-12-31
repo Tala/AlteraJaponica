@@ -1,11 +1,13 @@
 ---
-layout: post
-title: Dr. D. Schierling
-name: Dorothea Schierling
-beruf: Biologin
-geburtstag: 
-aussehen:
+layout: char
+object-id: dr-dorothea-schierling
+degree: Doctor rer.nat.
+first-name: Dorothea
+last-name: Schierling
+job: Biologin
+birthday: 
 description:
+image-url:
 ---
 
 Dr. D. Schierling  [^1].

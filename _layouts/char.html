@@ -1,0 +1,40 @@
+---
+layout: default
+---
+
+<header class="post-header">
+	<div>
+		<span>Posted on </span><span class="post-meta">{{ page.date | date: "%B %-d, %Y" }}</span>
+	</div>
+
+	<h1 class="post-title" itemprop="name headline">{{ page.title }}</h1>
+</header>
+
+<article class="post" itemscope itemtype="http://schema.org/BlogPosting">
+	Titel: {{ page.degree }}
+	<h1>Name: {{ page.first-name }} {{ page.last-name }}</h1>
+    <h2>Beruf: {{ page.job }}</h2>
+	<div class="entry-content" itemprop="articleBody">
+		{{ page.content }}
+	</div>
+</article>
+
+<div id="post-nav">
+	<div class="next">
+		{% if page.next.url %}
+		<a href="{{ site.baseurl }}{{ page.next.url }}">
+			<span>Next entry</span>
+			{{ page.next.title }}
+		</a>
+		{% endif %}
+	</div>
+
+	<div class="previous">
+		{% if page.previous.url %}
+		<a href="{{ site.baseurl }}{{ page.previous.url }}">
+			<span>Previous entry</span>
+			{{ page.previous.title }}
+		</a>
+		{% endif %}
+	</div>
+</div>

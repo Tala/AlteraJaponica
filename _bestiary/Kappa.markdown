@@ -1,10 +1,10 @@
 ---
 layout: post
-title: Kappa
 name: Kappa Kappa
-geburtstag: 
-aussehen:
+habitat:
+eating:
 description:
+image-url:
 ---
 
 Nur ein Kappa. Gehen sie weiter.
